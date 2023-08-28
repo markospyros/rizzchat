@@ -2,7 +2,7 @@
 
 RizzChat is a simple and intuitive chat application that allows users to send messages, or as we like to call them, `rizzagges`.
 
-![RizzChat Screenshot]()
+![RizzChat Screenshot](screenshot.jpg)
 
 ## Features
 
